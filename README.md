@@ -18,7 +18,7 @@
 7. [Documentation](#documentation)
 8. [Types of Infosec](#types-of-infosec)
 9. [SecurityTube Playlists](#securitytube-playlists)
-10. [License]
+10. [License](#license)
 
 
 Massive Online Open Courses
