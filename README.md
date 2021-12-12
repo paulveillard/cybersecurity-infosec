@@ -760,15 +760,14 @@ The penetration testing execution standard cover everything related to a penetra
 
 
 ## Types of Infosec
- - Application security - Application security is a broad topic that covers software vulnerabilities in web and mobile applications and application programming interfaces (APIs). These vulnerabilities may be found in authentication or authorization of users, integrity of code and configurations, and mature policies and procedures. Application vulnerabilities can create entry points for significant InfoSec breaches. Application security is an important part of perimeter defense for InfoSec.
- - Cloud Security - Cloud security focuses on building and hosting secure applications in cloud environments and securely consuming third-party cloud applications. “Cloud” simply means that the application is running in a shared environment. Businesses must make sure that there is adequate isolation between different processes in shared environments.
- - Cryptography - Encrypting data in transit and data at rest helps ensure data confidentiality and integrity. Digital signatures are commonly used in cryptography to validate the authenticity of data. Cryptography and encryption has become increasingly important. A good example of cryptography use is the Advanced Encryption Standard (AES). The AES is a symmetric key algorithm used to protect classified government information.
- - Infrastructure security - Infrastructure security deals with the protection of internal and extranet networks, labs, data centers, servers, desktops, and mobile devices.
- - Incident response - Incident response is the function that monitors for and investigates potentially malicious behavior.
+ - **Application security** - Application security is a broad topic that covers software vulnerabilities in web and mobile applications and application programming interfaces (APIs). These vulnerabilities may be found in authentication or authorization of users, integrity of code and configurations, and mature policies and procedures. Application vulnerabilities can create entry points for significant InfoSec breaches. Application security is an important part of perimeter defense for InfoSec.
+ - **Cloud Security** - Cloud security focuses on building and hosting secure applications in cloud environments and securely consuming third-party cloud applications. “Cloud” simply means that the application is running in a shared environment. Businesses must make sure that there is adequate isolation between different processes in shared environments.
+ - **Cryptography** - Encrypting data in transit and data at rest helps ensure data confidentiality and integrity. Digital signatures are commonly used in cryptography to validate the authenticity of data. Cryptography and encryption has become increasingly important. A good example of cryptography use is the Advanced Encryption Standard (AES). The AES is a symmetric key algorithm used to protect classified government information.
+ - **Infrastructure security** - Infrastructure security deals with the protection of internal and extranet networks, labs, data centers, servers, desktops, and mobile devices.
+ - **Incident response** - Incident response is the function that monitors for and investigates potentially malicious behavior.
 
 In preparation for breaches, IT staff should have an incident response plan for containing the threat and restoring the network. In addition, the plan should create a system to preserve evidence for forensic analysis and potential prosecution. This data can help prevent further breaches and help staff discover the attacker.
- - Vulnerability Management - 
-Vulnerability management is the process of scanning an environment for weak points (such as unpatched software) and prioritizing remediation based on risk.
+ - **Vulnerability Management** - Vulnerability management is the process of scanning an environment for weak points (such as unpatched software) and prioritizing remediation based on risk.
 
 In many networks, businesses are constantly adding applications, users, infrastructure, and so on. For this reason, it is important to constantly scan the network for potential vulnerabilities. Finding a vulnerability in advance can save your businesses the catastrophic costs of a breach.
 
