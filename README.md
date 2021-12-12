@@ -1,5 +1,5 @@
 # Cybersecurity Infosec
-Welcome to the World of Infosec in Cybersecurity
+> Welcome to the World of Infosec in Cybersecurity. An ongoing collection infosec courses, learning tutorials, libaries, and training resources.
 
 [Information Security](https://en.wikipedia.org/wiki/Information_security), sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks. It is part of information risk management.
 
@@ -16,10 +16,10 @@ Welcome to the World of Infosec in Cybersecurity
 5. [Open Security Books](#open-security-books)
 6. [Challenges](#challenges)
 7. [Documentation](#documentation)
-8. [SecurityTube Playlists](#securitytube-playlists)
-9. [Related Awesome Lists](#related-awesome-lists)
-10. [Contributing](#contributing)
-11. [License](#license)
+8. [Types of Infosec](#types-of-infosec)
+9. [SecurityTube Playlists](#securitytube-playlists)
+10. [License]
+
 
 Massive Online Open Courses
 ===========================
@@ -757,3 +757,25 @@ This guide arose out of the need for system administrators to have an updated, s
 The penetration testing execution standard cover everything related to a penetration test - from the initial communication and reasoning behind a pentest, through the intelligence gathering and threat modeling phases where testers are working behind the scenes in order to get a better understanding of the tested organization, through vulnerability research, exploitation and post exploitation, where the technical security expertise of the testers come to play and combine with the business understanding of the engagement, and finally to the reporting, which captures the entire process, in a manner that makes sense to the customer and provides the most value to it.
 
 - [Penetration Testing Execution Standard](http://www.pentest-standard.org/index.php/Main_Page)
+
+
+## Types of Infosec
+ - Application security - Application security is a broad topic that covers software vulnerabilities in web and mobile applications and application programming interfaces (APIs). These vulnerabilities may be found in authentication or authorization of users, integrity of code and configurations, and mature policies and procedures. Application vulnerabilities can create entry points for significant InfoSec breaches. Application security is an important part of perimeter defense for InfoSec.
+ - Cloud Security - Cloud security focuses on building and hosting secure applications in cloud environments and securely consuming third-party cloud applications. “Cloud” simply means that the application is running in a shared environment. Businesses must make sure that there is adequate isolation between different processes in shared environments.
+ - Cryptography - Encrypting data in transit and data at rest helps ensure data confidentiality and integrity. Digital signatures are commonly used in cryptography to validate the authenticity of data. Cryptography and encryption has become increasingly important. A good example of cryptography use is the Advanced Encryption Standard (AES). The AES is a symmetric key algorithm used to protect classified government information.
+ - Infrastructure security - Infrastructure security deals with the protection of internal and extranet networks, labs, data centers, servers, desktops, and mobile devices.
+ - Incident response - Incident response is the function that monitors for and investigates potentially malicious behavior.
+
+In preparation for breaches, IT staff should have an incident response plan for containing the threat and restoring the network. In addition, the plan should create a system to preserve evidence for forensic analysis and potential prosecution. This data can help prevent further breaches and help staff discover the attacker.
+ - Vulnerability Management - 
+Vulnerability management is the process of scanning an environment for weak points (such as unpatched software) and prioritizing remediation based on risk.
+
+In many networks, businesses are constantly adding applications, users, infrastructure, and so on. For this reason, it is important to constantly scan the network for potential vulnerabilities. Finding a vulnerability in advance can save your businesses the catastrophic costs of a breach.
+
+## License
+MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+To the extent possible under law, [Paul Veillard](https://github.com/paulveillard/) has waived all copyright and related or neighboring rights to this work.
+
