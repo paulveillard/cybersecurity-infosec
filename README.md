@@ -1,5 +1,5 @@
 # Cybersecurity Infosec
-> Welcome to the World of Infosec in Cybersecurity. An ongoing collection infosec courses, learning tutorials, libaries, and training resources.
+> Welcome to the World of Infosec in Cybersecurity. An ongoing open collection infosec useful links, courses, learning tutorials, libaries, and training resources.
 
 [Information Security](https://en.wikipedia.org/wiki/Information_security), sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks. It is part of information risk management.
 
@@ -31,10 +31,10 @@
 - [Vulnerable](#vulnerable)
 - [Other Courses](#other-courses)
    - [Massive Online Open Courses](#massive-online-open-courses)
-2. [Academic Courses](#academic-courses)
-3. [Laboratories](#laboratories)
-4. [Capture the Flag](#capture-the-flag)
-5. [Open Security Books](#open-security-books)
+   - [Academic Courses](#academic-courses)
+   - [Laboratories](#laboratories)
+   - [Capture the Flag](#capture-the-flag)
+   - [Open Security Books](#open-security-books)
 6. [Challenges](#challenges)
 7. [Documentation](#documentation)
 8. [Types of Infosec](#types-of-infosec)
