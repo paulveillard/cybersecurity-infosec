@@ -35,11 +35,11 @@
    - [Laboratories](#laboratories)
    - [Capture the Flag](#capture-the-flag)
    - [Open Security Books](#open-security-books)
-6. [Challenges](#challenges)
-7. [Documentation](#documentation)
-8. [Types of Infosec](#types-of-infosec)
-9. [SecurityTube Playlists](#securitytube-playlists)
-10. [License](#license)
+   - [Challenges](#challenges)
+   - [Documentation](#documentation)
+   - [Types of Infosec](#types-of-infosec)
+   - [SecurityTube Playlists](#securitytube-playlists)
+- [License](#license)
 
 ## Adversary Simulation & Emulation
 
