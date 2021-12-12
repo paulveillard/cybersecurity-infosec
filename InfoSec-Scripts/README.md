@@ -1,4 +1,3 @@
 # InfoSec-Scripts
-Scripts
 
-Scripts written by me.
+Scripts and tools to Help You start your ICS InfoSec Journey
