@@ -41,6 +41,8 @@
    - [SecurityTube Playlists](#securitytube-playlists)
 - [License](#license)
 
+**[`^        back to top        ^`](#)**
+
 ## Adversary Simulation & Emulation
 
 <table>
@@ -4307,10 +4309,14 @@ The penetration testing execution standard cover everything related to a penetra
  - **Incident response** - Incident response is the function that monitors for and investigates potentially malicious behavior. In preparation for breaches, IT staff should have an incident response plan for containing the threat and restoring the network. In addition, the plan should create a system to preserve evidence for forensic analysis and potential prosecution. This data can help prevent further breaches and help staff discover the attacker.
  - **Vulnerability Management** - Vulnerability management is the process of scanning an environment for weak points (such as unpatched software) and prioritizing remediation based on risk. In many networks, businesses are constantly adding applications, users, infrastructure, and so on. For this reason, it is important to constantly scan the network for potential vulnerabilities. Finding a vulnerability in advance can save your businesses the catastrophic costs of a breach.
 
+**[`^        back to top        ^`](#)**
+
 ## License
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 To the extent possible under law, [Paul Veillard](https://github.com/paulveillard/) has waived all copyright and related or neighboring rights to this work.
+
+**[`^        back to top        ^`](#)**
 
