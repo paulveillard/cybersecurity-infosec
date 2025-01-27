@@ -13,7 +13,10 @@ An ongoing & curated collection of awesome software best practices and technique
 ## IT Security Vs Computer Security Vs Information Security Vs Cyber Security - What's in a name?
 > IT Security, Computer Security, Information Security and Cyber Security - all these terms may, at times, seem like gobbledygook but have different connotations. Let's understand each term one at a time -
 
-**IT Security** - It focuses on security on IT such as systems that acquire, process and store the information in all format. Systems include network, internal and external, application software, mobile devices, IoT devices, cloud.
+#### IT Security
+- It focuses on security on IT such as systems that acquire, process and store the information in all format. Systems include network, internal and external, application software, mobile devices, IoT devices, cloud.
+
+
 **Computer Security** - Preservation of Confidentiality (C), Integrity (I) and Availability (A) of computer system assets including hardware devices such as servers, laptop, mobile phones; software such as firmware and OS; and network devices such as routers and switches.
 **Information Security** - Ensuring data in any form, digital or physical, is kept secure in terms of preserving its CIA and other additional properties such as authenticity, non-repudiation, accountability and reliability. Since it includes in its scope data in physical form hence the dimension of physical security can't be overlooked.
 **Cyber Security** - Before that we need to understand Cyberspace. Well, cyberspace refers to the Internet and connected entities. Now, we may think of Cyber Security as a subset of Information Security since it is concerned with the information in Cyberspace. Assets in cyberspace include - a) information itself ; b) information infrastructure ; c) non-information assets like energy grid, water supply, IoT.
