@@ -1,4 +1,4 @@
-# Information Security:
+# Information Security: Theory, Techniques, and Tools
 > Welcome to the World of Infosec in Cybersecurity. An ongoing open collection infosec useful links, courses, learning tutorials, libaries, and training resources.
 
 [Information Security](https://en.wikipedia.org/wiki/Information_security), sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks. It is part of information risk management.
