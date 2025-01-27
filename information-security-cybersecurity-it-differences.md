@@ -40,3 +40,13 @@ In practice, unfortunately or fortunately, cybersecurity is understood as a wide
 
 
 ## 3 - Information Technology (IT) Security
+
+**IT security (computer security, digital security, IT security)** - everything is clear here. Protection against hackers, viruses, spam, phishing and many other threats originating mainly from the Internet. This protection is most often implemented by reducing certain organizational or technical security vulnerabilities.
+
+In more formal terms, IT security is about ensuring the integrity, availability, confidentiality and other security requirements for computing and communications technology and the information that it stores, processes and sends.
+
+However, once we begin to understand IT security a little deeper, there are many related tasks, such as protecting against social engineering, managing security performance, providing security assurances, compliance with security regulations, insuring information risks, ensuring business continuity, and dozens of similar tasks.
+
+These tasks no longer fit into purely IT security, and require the competencies of economists, managers, lawyers, financiers, psychologists, teachers and some other professions. It may seem to some that these professions are not so technologically advanced, and, as it were, are secondary in safety. But when you look at it, security is all about risk management. And what to do with the risks is ultimately decided by economics and mathematics.
+
+Thus, IT security, moving to the level of competent system management, sooner or later, again comes down to information security in the understanding of the ISO 27001 standard (see paragraph 1 above).
