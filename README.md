@@ -16,7 +16,6 @@ An ongoing & curated collection of awesome software best practices and technique
 #### IT Security
 - It focuses on security on IT such as systems that acquire, process and store the information in all format. Systems include network, internal and external, application software, mobile devices, IoT devices, cloud.
 
-
 #### Computer Security 
 - Preservation of Confidentiality (C), Integrity (I) and Availability (A) of computer system assets including hardware devices such as servers, laptop, mobile phones; software such as firmware and OS; and network devices such as routers and switches.
 
@@ -25,6 +24,8 @@ An ongoing & curated collection of awesome software best practices and technique
 
 #### Cyber Security
 - Before that we need to understand Cyberspace. Well, cyberspace refers to the Internet and connected entities. Now, we may think of Cyber Security as a subset of Information Security since it is concerned with the information in Cyberspace. Assets in cyberspace include - a) information itself ; b) information infrastructure ; c) non-information assets like energy grid, water supply, IoT.
+
+
 
 #### `What is the main difference between cybersecurity and information security?`
 > Information security and cybersecurity are often confused. [InfoSec](https://www.cisco.com/c/en/us/products/security/what-is-information-security-infosec.html) is a crucial part of cybersecurity, but it refers exclusively to the processes designed for data security. Cybersecurity is a more general term that includes InfoSec.
