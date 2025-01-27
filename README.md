@@ -8,6 +8,7 @@ An ongoing & curated collection of awesome software best practices and technique
   <img src="https://github.com/paulveillard/cybersecurity-infosec/blob/main/img/Infosec.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
+# Information Security landscape
 
 ## `IT Security Vs Computer Security Vs Information Security Vs Cyber Security - What's in a name?`
 - IT Security, Computer Security, Information Security and Cyber Security - all these terms may, at times, seem like gobbledygook but have different connotations. Let's understand each term one at a time.
@@ -43,7 +44,7 @@ An ongoing & curated collection of awesome software best practices and technique
 </p>
 
 ## `Table of Contents`
-
+- [Information Security](#)
 - [Adversary Simulation & Emulation](#adversary-simulation--emulation)
 - [Application Security](#application-security)
 - [Binary Analysis](#binary-analysis)
