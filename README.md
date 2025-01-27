@@ -10,7 +10,7 @@ An ongoing & curated collection of awesome software best practices and technique
 </p>
 
 ## IT Security Vs Computer Security Vs Information Security Vs Cyber Security - What's in a name?
-> IT Security, Computer Security, Information Security and Cyber Security - all these terms may, at times, seem like gobbledygook but have different connotations. Let's understand each term one at a time.
+- IT Security, Computer Security, Information Security and Cyber Security - all these terms may, at times, seem like gobbledygook but have different connotations. Let's understand each term one at a time.
 
 
 
