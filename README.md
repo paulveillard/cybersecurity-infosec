@@ -9,8 +9,12 @@
   <img src="https://github.com/paulveillard/cybersecurity-infosec/blob/main/img/Infosec.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
-#### `What is the difference between cybersecurity and information security?`
+## IT Security Vs Computer Security Vs Information Security Vs Cyber Security - What's in a name?
+
+#### `What is the main difference between cybersecurity and information security?`
 > Information security and cybersecurity are often confused. [InfoSec](https://www.cisco.com/c/en/us/products/security/what-is-information-security-infosec.html) is a crucial part of cybersecurity, but it refers exclusively to the processes designed for data security. Cybersecurity is a more general term that includes InfoSec.
+
+
 
 ## `Table of Contents`
 
