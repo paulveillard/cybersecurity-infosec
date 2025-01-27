@@ -43,10 +43,10 @@ An ongoing & curated collection of awesome software best practices and technique
   <img src="https://github.com/paulveillard/cybersecurity-infosec/blob/main/img/it_information_2.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
-#### Concepts of  IT Security and Information Security
+#### `Concepts of  IT Security and Information Security`
 
 <p align="center">
-  <img src="https://github.com/paulveillard/cybersecurity-infosec/blob/main/img/it_information_2.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/paulveillard/cybersecurity-infosec/blob/main/img/it_information.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 
