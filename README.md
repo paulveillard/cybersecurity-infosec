@@ -39,6 +39,10 @@ An ongoing & curated collection of awesome software best practices and technique
 #### `What is the main difference between IT Security vs information security?`
 > Do note that IT security is technology oriented whereas Information security is business oriented.
 
+<p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-infosec/blob/main/img/it_information_2.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
 ## `Table of Contents`
 
 - [Adversary Simulation & Emulation](#adversary-simulation--emulation)
