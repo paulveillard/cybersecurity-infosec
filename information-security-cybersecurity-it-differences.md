@@ -3,6 +3,16 @@
 People often confuse or confuse three not quite the same concepts:
 
 - 1) Information Security (IS)
+ 
+**Information security** , by and large, is the security of any information, including paper documents, voice information, information in people's brains, and so on. This discipline appeared several thousand years ago. That is, conditionally, with the advent of the first encryption algorithms, if not earlier.
+
+Traditionally, this also includes issues of state security, propaganda, censorship, social manipulation, and so on. There are even government information security laws that have little to do with modern IT security.
+
+Also, information security often includes some adjacent areas of security, especially for organizations that actively use IT. It is about physical security, personnel security, security of relationships with third parties, business continuity, etc. As an authoritative example, we will cite the international standard for the management of the security of organizations ISO 27001. The key two words from the title of this standard are “information security,” although the standard itself contains some material outside of purely information security.
+
+> The three “whales” on which information security is based are integrity, availability and confidentiality. These requirements apply not only to electronic information, but also to “paper”, oral, etc.
+
+Thus, information security is the classic name for a discipline that covers a wide range of information security issues and related issues.
 
 - 2) Computer Security, that is, Information Technology (IT) security
 
