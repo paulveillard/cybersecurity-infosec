@@ -33,10 +33,11 @@ An ongoing & curated collection of awesome software best practices and technique
 
 
 
-#### `What is the main difference between cybersecurity and information security?`
+#### `What is the main difference between cybersecurity vs information security?`
 > Information security and cybersecurity are often confused. [InfoSec](https://www.cisco.com/c/en/us/products/security/what-is-information-security-infosec.html) is a crucial part of cybersecurity, but it refers exclusively to the processes designed for data security. Cybersecurity is a more general term that includes InfoSec.
 
-
+#### `What is the main difference between IT Security vs information security?`
+> Do note that IT security is technology oriented whereas Information security is business oriented.
 
 ## `Table of Contents`
 
