@@ -43,6 +43,13 @@ An ongoing & curated collection of awesome software best practices and technique
   <img src="https://github.com/paulveillard/cybersecurity-infosec/blob/main/img/it_information_2.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
+#### Concepts of  IT Security and Information Security
+
+<p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-infosec/blob/main/img/it_information_2.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
+
 ## `Table of Contents`
 - [Information Security](#information-security-landscape)
 - [Adversary Simulation & Emulation](#adversary-simulation--emulation)
