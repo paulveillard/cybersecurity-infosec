@@ -17,7 +17,7 @@ Several definitions and benchmarks have been published on the Internet. Some of 
 
 - The areas of security are booming, which is why the terminology has changed over the years. For example, take the concept of audit. It has many different meanings and shades. From setting up event logging and analyzing them to security testing and interviewing personnel to ensure that security requirements are met. When we deal with living, evolving objects like communication languages or IT, ambiguity in terminology is normal. And yet, it makes sense to place some accents.
 
-## 1 - Information Security (IS)
+## `1 - Information Security (IS)`
 **Information security** , by and large, is the security of any information, including paper documents, voice information, information in people's brains, and so on. This discipline appeared several thousand years ago. That is, conditionally, with the advent of the first encryption algorithms, if not earlier.
 
 Traditionally, this also includes issues of state security, propaganda, censorship, social manipulation, and so on. There are even government information security laws that have little to do with modern IT security.
@@ -28,7 +28,7 @@ Also, information security often includes some adjacent areas of security, espec
 
 Thus, information security is the classic name for a discipline that covers a wide range of information security issues and related issues.
 
-## 2 - Cybersecurity
+## `2 - Cybersecurity`
 
 Cyber security or cyber security (no hyphen) is the most controversial term. Many people think that cybersecurity means the same as IT security. Kind of a modern synonym and buzzword. Someone thinks that cyber security is a new level of IT security, linking its appearance with some major incidents or other events. Someone thinks that cybersecurity is the same as information security. So after all, what is cybersecurity - IT security, information security, or something else? Let's figure it out.
 
@@ -43,7 +43,7 @@ It turns out that, strictly speaking, the closest thing to the concept of cyber 
 In practice, unfortunately or fortunately, cybersecurity is understood as a wide variety of sets of questions. From narrow, like CTF competitions, protecting against certain types of threats or incident investigations, to broader ones, like applying configuration standards and security hardening. Time will show how this concept will develop.
 
 
-## 3 - Information Technology (IT) Security
+## `3 - Information Technology (IT) Security`
 
 **IT security (computer security, digital security, IT security)** - everything is clear here. Protection against hackers, viruses, spam, phishing and many other threats originating mainly from the Internet. This protection is most often implemented by reducing certain organizational or technical security vulnerabilities.
 
