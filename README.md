@@ -4,14 +4,13 @@ An ongoing & curated collection of awesome software best practices and technique
 
 [Information Security](https://en.wikipedia.org/wiki/Information_security), sometimes shortened to InfoSec, is the practice of protecting information by mitigating information risks. It is part of information risk management.
 
-![infosec](https://github.com/paulveillard/cybersecurity-infosec/blob/main/Infosec.png)
 
 <p align="center">
   <img src="https://github.com/paulveillard/cybersecurity-infosec/blob/main/img/Infosec.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 ## IT Security Vs Computer Security Vs Information Security Vs Cyber Security - What's in a name?
-> IT Security, Computer Security, Information Security and Cyber Security - all these terms may, at times, seem like gobbledygook but have different connotations. Let's understand each term one at a time -
+> IT Security, Computer Security, Information Security and Cyber Security - all these terms may, at times, seem like gobbledygook but have different connotations. Let's understand each term one at a time.
 
 #### IT Security
 - It focuses on security on IT such as systems that acquire, process and store the information in all format. Systems include network, internal and external, application software, mobile devices, IoT devices, cloud.
