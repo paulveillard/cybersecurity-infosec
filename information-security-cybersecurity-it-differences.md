@@ -1,5 +1,9 @@
 # Difference Between Information Security, Cyber Security, and IT Security
 
+ <p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-infosec/blob/main/img/infosec_2.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
 People often confuse or confuse three not quite the same concepts:
 
 - 1) Information Security (IS)
