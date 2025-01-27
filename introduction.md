@@ -54,3 +54,12 @@ However, once we begin to understand IT security a little deeper, there are many
 These tasks no longer fit into purely IT security, and require the competencies of economists, managers, lawyers, financiers, psychologists, teachers and some other professions. It may seem to some that these professions are not so technologically advanced, and, as it were, are secondary in safety. But when you look at it, security is all about risk management. And what to do with the risks is ultimately decided by economics and mathematics.
 
 Thus, IT security, moving to the level of competent system management, sooner or later, again comes down to information security in the understanding of the ISO 27001 standard (see paragraph 1 above).
+
+## License
+MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+To the extent possible under law, [Paul Veillard](https://github.com/paulveillard/) has waived all copyright and related or neighboring rights to this work.
+
+**[`^        back to top        ^`](#)**
