@@ -546,6 +546,11 @@ An ongoing & curated collection of awesome software best practices and technique
         <td><a href="https://github.com/sslab-gatech/Rudra">sslab-gatech/Rudra</a></td>
         <td>Rust Memory Safety & Undefined Behavior Detection</td>
     </tr>
+    <tr>
+        <td><a href="https://vulert.com">Vulert</a></td>
+        <td>Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.
+</td>
+    </tr>
    <tr>
         <td><a href="https://github.com/subfinder/subfinder">subfinder/subfinder</a></td>
         <td>SubFinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.</td>
