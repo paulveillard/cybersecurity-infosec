@@ -3905,6 +3905,7 @@ In this free self-paced online training course, you’ll cover three main topics
 - [Python for Security Professionals](https://www.cybrary.it/course/python)<br>
 This course will take you from basic concepts to advanced scripts in just over 10 hours of material, with a focus on networking and security.
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation and a local privacy gateway.
 - [Metasploit](https://www.cybrary.it/course/metasploit)<br>
 This free Metasploit training class will teach you to utilize the deep capabilities of Metasploit for penetration testing and help you to prepare to run vulnerability assessments for organizations of any size.
 
