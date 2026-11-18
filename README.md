@@ -555,9 +555,13 @@ An ongoing & curated collection of awesome software best practices and technique
         <td>A Blazing fast Security Auditing tool for Kubernetes</td>
     </tr>
     <tr>
+        <td><a href="https://vulert.com">Vulert</a></td>
+        <td>Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.</td>
+    </tr>
+	<tr>
         <td><a href="https//github.com/visma-prodsec/confused">visma-prodsec/confused</a></td>
         <td>Tool to check for dependency confusion vulnerabilities in multiple package management systems</td>
-    </tr>
+    </tr> 
     <tr>
         <td><a href="https://github.com/wallarm/gotestwaf">wallarm/gotestwaf</a></td>
         <td>Go Test WAF project, a tool to test different WAF detects for apps and APIs</td>
